@@ -2,6 +2,8 @@
 
 ### About Me
 
+Начинающий QA-специалист исследует веб-приложения, ищет ошибки и каждый день учится тестировать программное обеспечение. Ищу свою первую работу в сфере контроля качества!
+
 Junior QA enthusiast exploring web applications, hunting bugs, and learning software testing every day. Looking for my first QA opportunity! 😉😉😉
 
 ### Tools
