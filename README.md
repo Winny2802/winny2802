@@ -13,7 +13,13 @@ Junior QA enthusiast exploring web applications, hunting bugs, and learning soft
 
 ### Testing Documentation
 
+- [Checklist]()
+- [Test-Cases]()
+- [Bug-Reports]()
+- [SQL Querles]()
+- [Postman Collections]()
+
 ### Follow Me
-
-
+[![Header](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=006488)](https://t.me/jenny_tu_estrella)
+[![Header](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=006488)](https://linkedin.com/in/YOUR_USERNAME)
 
